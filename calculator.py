@@ -1,0 +1,1 @@
+print("Welcome to interest rate calculator! Let me help you calculate your interest rate.")
